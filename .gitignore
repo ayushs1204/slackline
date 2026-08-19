@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Python (in case a contributor runs tooling locally)
+__pycache__/
+*.pyc
+
+# Editor / local
+.idea/
+.vscode/
+*.swp

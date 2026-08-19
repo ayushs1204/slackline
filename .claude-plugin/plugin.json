@@ -1,0 +1,15 @@
+{
+  "name": "slackline",
+  "displayName": "Slackline 1.0",
+  "version": "1.0.5",
+  "description": "Drive Claude Code from your Slack self-DM via the Slack MCP. Say 'connect to slack' in an open terminal to bind that session to a Slack thread, then drive it from your phone — replies run here and approvals for risky actions are asked in Slack. No bot app, no token.",
+  "author": {
+    "name": "Ayush Shukla"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ayushs1204/slackline",
+  "repository": "https://github.com/ayushs1204/slackline",
+  "keywords": ["slack", "mcp", "remote", "terminal", "claude-code", "automation"],
+  "skills": "./skills/",
+  "commands": ["./commands/"]
+}

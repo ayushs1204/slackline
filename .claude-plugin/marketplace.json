@@ -1,0 +1,11 @@
+{
+  "name": "slackline",
+  "owner": { "name": "Ayush Shukla" },
+  "plugins": [
+    {
+      "name": "slackline",
+      "source": ".",
+      "description": "Drive Claude Code from your Slack self-DM — no bot, no token, no hosting. Execution stays on your laptop."
+    }
+  ]
+}
